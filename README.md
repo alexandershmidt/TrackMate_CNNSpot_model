@@ -7,11 +7,13 @@ xml.etree.ElementTree, sklearn.model_selection, tensorflow, math, tensorflow.pyt
 to run training:
 
 1) select path to labels
-2) select false_multiplier
-3) select test_size
-4) select minibatch_size
-5) select learning_rate
-6) select number of iterations
-7) select output folder
+2) kernel_size
+3) distance_false_to_true 
+4) select false_multiplier
+5) select test_size
+6) select minibatch_size
+7) select learning_rate
+8) select number of iterations
+9) select output folder
 
 Example is provided in run_training.py
