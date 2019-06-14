@@ -15,5 +15,6 @@ to run training:
 7) select learning_rate
 8) select number of iterations
 9) select output folder
+10) run train
 
 Example is provided in run_training.py
